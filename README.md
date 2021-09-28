@@ -3,7 +3,7 @@ bootstrap template
 
 Yo! This is a Bootstrap 5.1 boilerplate template. It uses the 5.1 CDN and only uses 1 bootstap link in the head tag & 1 script tag at the end of the body tag.
 
-#H2 Steps to clone repo
+# H2 Steps to clone repo
 
 (navigate to your project folder in your terminal)
 
@@ -15,7 +15,8 @@ Yo! This is a Bootstrap 5.1 boilerplate template. It uses the 5.1 CDN and only u
 
 4. git push origin main
 
-1. index.html
+# H2 Files Included
+- index.html
 
 - css folder
 
