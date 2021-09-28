@@ -11,7 +11,7 @@ Yo! This is a Bootstrap 5.1 boilerplate template. It uses the 5.1 CDN and only u
 
 2. git add .
 
-3. git commit -m “init commit”
+3. git commit -m “insert commit”
 
 4. git push origin main
 
