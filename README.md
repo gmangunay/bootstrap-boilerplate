@@ -1,39 +1,29 @@
 # bootstrap-boilerplate
 bootstrap template
 
-Yo! This is a Bootstrap 5.1 boilerplate template. It uses the 5.1 CDN and only uses 1 bootstap link in the head tag & 1 script tag at the end of the body tag.
+This makes use of a Bootstrap 4.5.3 boilerplate template. This template utilizes a Content Delivery Networt (CDN).   **online!**
 
-# H2 Steps to clone repo
+## Cloning this Repo
 
-(navigate to your project folder in your terminal)
+First navigate to the project folder you want to use. Once selected, follow the steps below.
+1. Right-click folder and select "Git Bash Here"
+2. git clone **git@github.com:gmangunay/bootstrap-boilerplate.git**
+3. git add . 
+4. git commit -m "insert commit"
+5. git push origin main
 
-1. git clone git@github.com:gmangunay/bootstrap-boilerplate.git
+## Files Included
 
-2. git add .
-
-3. git commit -m “insert commit”
-
-4. git push origin main
-
-# H2 Files Included
 - index.html
-
 - css folder
-
-    - styles.css
-
+	- styles.css
 - js folder
+	- scripts.js
+- img folder
 
-    - scripts.js
-
-- img 
-
-Contributor:
+## Contributors
 
 Genesis Mangunay,
-
 Solutions Engineer Apprentice
-
 Alphaworks
-
 gmangunay@alphaworks.tech
