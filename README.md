@@ -23,7 +23,10 @@ First navigate to the project folder you want to use. Once selected, follow the 
 
 ## Contributors
 
-Genesis Mangunay,
+Genesis Mangunay, 
+
 Solutions Engineer Apprentice
+
 Alphaworks
+
 gmangunay@alphaworks.tech
